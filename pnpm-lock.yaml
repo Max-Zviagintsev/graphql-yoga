@@ -11,6 +11,9 @@ importers:
       '@fastify/cors':
         specifier: ^10.0.2
         version: 10.0.2
+      '@graphql-tools/merge':
+        specifier: ^9.0.17
+        version: 9.0.17(graphql@16.10.0)
       fastify:
         specifier: ^5.2.1
         version: 5.2.1
